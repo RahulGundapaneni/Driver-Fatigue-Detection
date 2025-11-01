@@ -1,0 +1,33 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+venv/
+ENV/
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+Final Phase/.ipynb_checkpoints/
+
+# Model weights and generated media
+models/*.h5
+!models/cnnCat2.h5
+*.jpg
+*.png
+*.gif
+
+# Dataset archives and extracted data
+*.zip
+*.tar
+*.tar.gz
+*.rar
+
+# IDE files
+.DS_Store
+.vscode/
+.idea/

@@ -1,0 +1,10 @@
+tensorflow
+keras
+opencv-python
+pygame
+numpy
+matplotlib
+scikit-learn
+face-recognition
+pillow
+dlib
